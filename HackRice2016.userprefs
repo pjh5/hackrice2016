@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Myo/Scripts/ThalmicMyo.cs">
+    <Files>
+      <File FileName="Assets/Myo/Scripts/ThalmicMyo.cs" Line="93" Column="30" />
+      <File FileName="Assets/PaintBrushScript.cs" Line="17" Column="25" />
+      <File FileName="Assets/Myo Samples/Scripts/ColorBoxByPose.cs" Line="64" Column="50" />
+      <File FileName="Assets/Myo Samples/Scripts/JointOrientation.cs" Line="59" Column="21" />
+      <File FileName="Assets/Myo Samples/Scripts/SampleSceneGUI.cs" Line="29" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
